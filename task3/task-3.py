@@ -34,4 +34,4 @@ for test_node in tests["tests"]:
 
 filename_3 = sys.argv[3]
 with open(filename_3, "w") as f:
-    json.dump(tests, f)
+    json.dump(tests, f) 
