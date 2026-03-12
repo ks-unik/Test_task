@@ -28,4 +28,4 @@ for k in range(0, len(coordinates_list), 2):
     elif point_value < 0:
         print(1) 
     else:
-        print(2) 
+        print(2)
